@@ -10,7 +10,7 @@ Key Concepts:
 - Generation of new music and conversion to playable .mid files
 
 ## Quick Access
-Open in Google Colab - https://colab.research.google.com/drive/1sKswbTLMzu0SymAylr0AfRQZFBChnN_m?usp=sharing
+Open in Google Colab - https://colab.research.google.com/drive/1k5aZEuG50VDdsuT33zfebFFIxWtUozCV?usp=sharing
 
 ## Model Architecture
 - 3 stacked LSTM layers (512 units each)
