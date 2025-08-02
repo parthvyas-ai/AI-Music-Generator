@@ -31,5 +31,5 @@ To use this project, follow these steps:
 - Open the project notebook in Google Colab.
 - Follow the instructions provided in the notebook to configure any necessary settings or parameters.
 - Run the code cells in sequential order to execute the project.
-- Examine the output and any generated files or visualizations.
+- Examine the output and listen to the music.
 
